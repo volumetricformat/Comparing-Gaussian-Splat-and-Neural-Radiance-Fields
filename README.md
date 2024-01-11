@@ -1,1 +1,1 @@
-# Comparing-Gaussian-Splat-and-Neural-Radiance-Fields
+## Comparing-Gaussian-Splat-and-Neural-Radiance-Fields
